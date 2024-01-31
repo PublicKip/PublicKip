@@ -1,9 +1,11 @@
 # Hello, I'm Matthew, also known as PublicKip
 
-<p> I recently joined <a href="https://www.code-crew.org/">CodeCrew</a> via <a href="https://changeiscollective.org/">The Collective Blueprint</a> seeking to expand my promgramming toolset. </p>
+<p> I recently joined <a target="_blank" href="https://www.code-crew.org/">CodeCrew</a> via <a target="_blank" href="https://changeiscollective.org/">The Collective Blueprint</a> seeking to expand my promgramming toolset. </p>
 <p> My primary interests are peer-to-peer networking (playing Fighting Games in Delay-based Netcode has forever scarred me), and aiding development on open sources tools I currently find or may find myself using in the future </p>
 
-- ⚪ Pronouns: any/all
+<hr />
+
+- 🏳️‍🌈 Pronouns: any/all
 - 📩 Email: mattsimp42@gmail.com
 - 👾 Discord: publickip
 
