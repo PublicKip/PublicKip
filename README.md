@@ -8,6 +8,8 @@
 - 🏳️‍🌈 Pronouns: any/all
 - 📩 Email: mattsimp42@gmail.com
 - 👾 Discord: publickip
+- 🟦 Linkedin: [Matthew Simpson](https://www.linkedin.com/in/matthew-simpson-5117142b0/)
+
 
 <details>
 <summary> 🟢 Spotify Now Playing 🟢 </summary>
