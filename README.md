@@ -11,9 +11,6 @@
 - 👾 Discord: publickip
 - 🟦 Linkedin: [Matthew Simpson](https://www.linkedin.com/in/matthew-simpson-5117142b0/)
 
-
-<p align=middle> 🟢 Spotify Now Playing 🟢 </p>
-
 <p align=middle>
   <a href=https://github.com/kittinan/spotify-github-profile>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=kingkip42&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="350">
