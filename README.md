@@ -9,7 +9,7 @@
 - 🏳️‍🌈 Pronouns: any/all
 - 📩 Email: mattsimp42@gmail.com
 - 👾 Discord: publickip
-- 🟦 Linkedin: [Matthew Simpson](https://www.linkedin.com/in/matthew-simpson-5117142b0/)
+- 🟦 LinkedIn: [Matthew Simpson](https://www.linkedin.com/in/matthew-simpson-5117142b0/)
 
 <p align=middle>
   <a href=https://github.com/kittinan/spotify-github-profile>
